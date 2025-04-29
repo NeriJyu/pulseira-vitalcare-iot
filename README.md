@@ -77,6 +77,25 @@ A solução é composta por três camadas principais:
    Host: `test.mosquitto.org`
    Porta: `1883`
 
+---
+
+### 📡 Visualizar os dados com HiveMQ Web Client
+
+1. Acesse: [HiveMQ WebSocket Client](https://www.hivemq.com/demos/websocket-client/)
+2. Preencha:
+
+| Campo        | Valor                    |
+|--------------|--------------------------|
+| Host         | `test.mosquitto.org`     |
+| Port         | `8081`                   |
+| Use SSL      | Assinale                 |
+| Client ID    | Qualquer nome            |
+
+3. Clique em **Connect**
+4. Em *Subscriptions*, digite: `vitalcare/paciente1`
+5. Clique em **Messages** para visualizar os dados em tempo real.
+
+---
 
 ## 👥 Equipe
 
