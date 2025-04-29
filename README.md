@@ -109,6 +109,5 @@ Confira a demonstração do projeto no YouTube:
 - Diogo Cecchini      RM560427
 - Gustavo Neri        RM560239
 - Gustavo Pandolfo    RM560271
-- Matheus Aparecido   RM559813
 
 
