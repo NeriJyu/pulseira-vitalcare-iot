@@ -50,7 +50,7 @@ A solução é composta por três camadas principais:
 
 ## 🧠 Diagrama da Arquitetura
 
-🔗 O diagrama em camadas foi desenvolvido no [draw.io](https://app.diagrams.net/) e no arquivo VitalCare.drawio
+🔗 O diagrama em camadas foi desenvolvido no [draw.io](https://app.diagrams.net/) e está salvo no arquivo VitalCare.drawio.
 
 ### 🖼 Descrição do Diagrama
 
