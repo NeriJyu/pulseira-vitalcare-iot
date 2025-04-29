@@ -71,6 +71,11 @@ A solução é composta por três camadas principais:
    👉 [https://wokwi.com/projects/429595416399717377](#)
 
 2. O ESP32 lê os dados do sensor DHT22 e publica via MQTT no tópico:
+  `vitalcare/paciente1`
+
+3. Broker utilizado:
+   Host: `test.mosquitto.org`
+   Porta: `1883`
 
 
 ## 👥 Equipe
