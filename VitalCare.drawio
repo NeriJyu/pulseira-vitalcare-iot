@@ -52,6 +52,18 @@
         <mxCell id="0B_SHqXhbdFJTbc_eyU5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.033;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0B_SHqXhbdFJTbc_eyU5-6" target="0B_SHqXhbdFJTbc_eyU5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0B_SHqXhbdFJTbc_eyU5-22" value="Médico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B_SHqXhbdFJTbc_eyU5-23" value="Enfermeiro" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0B_SHqXhbdFJTbc_eyU5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0B_SHqXhbdFJTbc_eyU5-8" target="0B_SHqXhbdFJTbc_eyU5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0B_SHqXhbdFJTbc_eyU5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0B_SHqXhbdFJTbc_eyU5-8" target="0B_SHqXhbdFJTbc_eyU5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
