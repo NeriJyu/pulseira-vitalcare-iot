@@ -97,6 +97,13 @@ A solução é composta por três camadas principais:
 
 ---
 
+## 📺 Demonstração em Vídeo
+
+Confira a demonstração do projeto no YouTube:
+  👉 [https://wokwi.com/projects/429595416399717377](#)
+
+---
+
 ## 👥 Equipe
 
 - Diogo Cecchini      RM560427
