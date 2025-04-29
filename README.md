@@ -22,15 +22,15 @@ A solução é composta por três camadas principais:
 - **Microcontrolador:**
   - `ESP32` – Responsável pela coleta dos dados dos sensores e envio via Wi-Fi.
 - **Atuadores (opcional):**
-  - Buzzer/LED – Para alertas locais em caso de anomalias.
+  - `Buzzer/LED` – Para alertas locais em caso de anomalias.
 
 ### 2. **Back-end (Plataforma IoT)**
 - API construída em `Node.js` para receber dados via MQTT.
 - Armazenamento dos dados em `MongoDB`.
 
 ### 3. **Aplicação (Visualização)**
-- Dashboard Web e/ou aplicativo mobile.
-- Acesso restrito a **médicos e enfermeiros**.
+- Dashboard Web.
+- Acesso para médicos e enfermeiros.
 - Exibição dos sinais vitais em tempo real e alertas automáticos.
 
 ---
@@ -44,7 +44,7 @@ A solução é composta por três camadas principais:
 | MLX90614          | Sensor infravermelho para temperatura corporal      |
 | Buzzer / LED      | Atuador para alertas locais (opcional)              |
 | Plataforma IoT    | Node.js + MongoDB + MQTT                            |
-| Visualização      | React (Dashboard restrito a profissionais)          |
+| Visualização      | React.js                                            |
 
 ---
 
