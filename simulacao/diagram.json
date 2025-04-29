@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "author": "Gustavo Neri",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": -67.2, "left": -91.16, "attrs": {} },
+    { "type": "wokwi-dht22", "id": "dht1", "top": -249.3, "left": 61.8, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "dht1:VCC", "esp:3V3", "red", [ "v38.4", "h-172.8" ] ],
+    [ "dht1:SDA", "esp:15", "green", [ "v0" ] ],
+    [ "dht1:GND", "esp:GND.1", "black", [ "v307.2", "h-220.8", "v-86.4", "h9.6" ] ]
+  ],
+  "dependencies": {}
+}
