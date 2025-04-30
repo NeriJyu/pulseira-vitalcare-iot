@@ -100,7 +100,7 @@ A solução é composta por três camadas principais:
 ## 📺 Demonstração em Vídeo
 
 Confira a demonstração do projeto no YouTube:
-   👉 [https://wokwi.com/projects/429595416399717377](#)
+   👉 [https://www.youtube.com/watch?v=hS-LmkYQc8U](https://www.youtube.com/watch?v=hS-LmkYQc8U)
 
 ---
 
