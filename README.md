@@ -68,7 +68,7 @@ A solução é composta por três camadas principais:
 ### 🚀 Simulação no Wokwi
 
 1. Acesse o projeto no Wokwi:  
-   👉 [https://wokwi.com/projects/429595416399717377](#)
+   👉 [https://wokwi.com/projects/429595416399717377](https://wokwi.com/projects/429595416399717377)
 
 2. O ESP32 lê os dados do sensor DHT22 e publica via MQTT no tópico:
   `vitalcare/paciente1`
